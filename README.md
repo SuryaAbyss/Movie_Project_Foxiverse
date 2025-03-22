@@ -1,6 +1,6 @@
 # 🎬 **FoxiVerse - Your Ultimate Movie Discovery Platform**  
 
-![FoxiVerse Banner](https://via.placeholder.com/1200x600.png?text=CineVerse+Movie+Discovery+Platform)
+![FoxiVerse Banner](https://github.com/SuryaAbyss/Movie_Project_Foxiverse/blob/main/Screenshot%202025-03-23%20042022.jpg)
 
 Welcome to **FoxiVerse**—a **next-gen movie discovery platform** designed to help you **find your next favorite film or TV show effortlessly**!  
 Powered by **modern web technologies** and the **TMDB API**, FoxiVerse delivers a **seamless** and **interactive** movie-browsing experience.
